@@ -1,0 +1,3509 @@
+[
+{
+"exchange": "NYSE",
+"symbol": "ABT",
+"name":"Abbott Laboratories",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "ABBV",
+"name": "AbbVie",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+},
+{
+"exchange": "NYSE",
+"symbol": "ACN",
+"name":"Accenture plc",
+"industry": "Information Technology",
+"subindustry": "IT Consulting & Other Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "ACE",
+"name":"ACE Limited",
+"industry": "Financials",
+"subindustry": "Property & Casualty Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "ACT",
+"name":"Actavis|Actavis plc",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ADBE",
+"name":"Adobe Systems Inc",
+"industry": "Information Technology",
+"subindustry": "Application Software"
+},
+{
+"exchange": "NYSE",
+"symbol": "ADT",
+"name":"ADT Corp",
+"industry": "Industrials",
+"subindustry": "Diversified Commercial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "AES",
+"name":"AES Corp",
+"industry": "Utilities",
+"subindustry": "Independent Power Producers & Energy Traders"
+},
+{
+"exchange": "NYSE",
+"symbol": "AET",
+"name":"Aetna Inc",
+"industry": "Health Care",
+"subindustry": "Managed Health Care"
+},
+{
+"exchange": "NYSE",
+"symbol": "AFL",
+"name":"AFLAC Inc",
+"industry": "Financials",
+"subindustry": "Life & Health Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "AMG",
+"name":"Affiliated Managers Group Inc",
+"industry": "Financials",
+"subindustry": "Asset Management & Custody Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "A",
+"name":"Agilent Technologies Inc",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "GAS",
+"name":"AGL Resources Inc.",
+"industry": "Utilities",
+"subindustry": "Gas Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "APD",
+"name":"Air Products & Chemicals Inc",
+"industry": "Materials",
+"subindustry": "Industrial Gases"
+},
+{
+"exchange": "NYSE",
+"symbol": "ARG",
+"name":"Airgas Inc",
+"industry": "Materials",
+"subindustry": "Industrial Gases"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "AKAM",
+"name":"Akamai Technologies Inc",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "AA",
+"name":"Alcoa Inc",
+"industry": "Materials",
+"subindustry": "Aluminum"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ALXN",
+"name":"Alexion Pharmaceuticals",
+"industry": "Health Care",
+"subindustry": "Biotechnology"
+},
+{
+"exchange": "NYSE",
+"symbol": "ATI",
+"name":"Allegheny Technologies Inc",
+"industry": "Materials",
+"subindustry": "Diversified Metals & Mining"
+},
+{
+"exchange": "NYSE",
+"symbol": "ALLE",
+"name":"Allegion",
+"industry": "Industrials",
+"subindustry": "Building Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "ADS",
+"name":"Alliance Data Systems",
+"industry": "Information Technology",
+"subindustry": "Data Processing & Outsourced Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "ALL",
+"name":"Allstate Corp",
+"industry": "Financials",
+"subindustry": "Property & Casualty Insurance"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ALTR",
+"name":"Altera Corp",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "MO",
+"name":"Altria Group Inc",
+"industry": "Consumer Staples",
+"subindustry": "Tobacco"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "AMZN",
+"name":"Amazon.com Inc",
+"industry": "Consumer Discretionary",
+"subindustry": "Internet Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "AEE",
+"name":"Ameren Corp",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "AAL",
+"name":"American Airlines Group",
+"industry": "Industrials",
+"subindustry": "Airlines"
+},
+{
+"exchange": "NYSE",
+"symbol": "AEP",
+"name":"American Electric Power",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "AXP",
+"name":"American Express Co",
+"industry": "Financials",
+"subindustry": "Consumer Finance"
+},
+{
+"exchange": "NYSE",
+"symbol": "AIG",
+"name":"American International Group|American International Group, Inc.",
+"industry": "Financials",
+"subindustry": "Property & Casualty Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "AMT",
+"name":"American Tower Corp A",
+"industry": "Financials",
+"subindustry": "Specialized REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "AMP",
+"name":"Ameriprise Financial",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "ABC",
+"name":"AmerisourceBergen Corp",
+"industry": "Health Care",
+"subindustry": "Health Care Distribution & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "AME",
+"name":"Ametek",
+"industry": "Industrials",
+"subindustry": "Electrical Components & Equipment"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "AMGN",
+"name":"Amgen Inc",
+"industry": "Health Care",
+"subindustry": "Biotechnology"
+},
+{
+"exchange": "NYSE",
+"symbol": "APH",
+"name":"Amphenol Corp A",
+"industry": "Industrials",
+"subindustry": "Electrical Components & Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "APC",
+"name":"Anadarko Petroleum|Anadarko Petroleum Corp",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ADI",
+"name":"Analog Devices|Analog Devices, Inc.",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "AON",
+"name":"Aon plc",
+"industry": "Financials",
+"subindustry": "Insurance Brokers"
+},
+{
+"exchange": "NYSE",
+"symbol": "APA",
+"name":"Apache Corporation",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "AIV",
+"name":"Apartment Investment & Mgmt",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "AAPL",
+"name":"Apple Inc.",
+"industry": "Information Technology",
+"subindustry": "Computer Hardware"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "AMAT",
+"name":"Applied Materials Inc",
+"industry": "Information Technology",
+"subindustry": "Semiconductor Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "ADM",
+"name":"Archer-Daniels-Midland Co",
+"industry": "Consumer Staples",
+"subindustry": "Agricultural Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "AIZ",
+"name":"Assurant Inc",
+"industry": "Financials",
+"subindustry": "Multi-line Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "T",
+"name":"AT&T Inc",
+"industry": "Telecommunications Services",
+"subindustry": "Integrated Telecommunications Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ADSK",
+"name":"Autodesk Inc",
+"industry": "Information Technology",
+"subindustry": "Application Software"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ADP",
+"name":"Automatic Data Processing",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "AN",
+"name":"AutoNation Inc",
+"industry": "Consumer Discretionary",
+"subindustry": "Specialty Stores"
+},
+{
+"exchange": "NYSE",
+"symbol": "AZO",
+"name":"AutoZone Inc",
+"industry": "Consumer Discretionary",
+"subindustry": "Specialty Stores"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "AVGO",
+"name":"Avago Technologies",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "AVB",
+"name":"AvalonBay Communities, Inc.",
+"industry": "Financials",
+"subindustry": "Residential REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "AVY",
+"name":"Avery Dennison Corp",
+"industry": "Materials",
+"subindustry": "Paper Packaging"
+},
+{
+"exchange": "NYSE",
+"symbol": "BHI",
+"name":"Baker Hughes Inc",
+"industry": "Energy",
+"subindustry": "Oil & Gas Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "BLL",
+"name":"Ball Corp",
+"industry": "Materials",
+"subindustry": "Metal & Glass Containers"
+},
+{
+"exchange": "NYSE",
+"symbol": "BAC",
+"name":"Bank of America Corp",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "BK",
+"name":"The Bank of New York Mellon Corp.",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "BCR",
+"name":"Bard (C.R.) Inc.",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "BAX",
+"name":"Baxter International Inc.",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "BBT",
+"name":"BB&T Corporation",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "BDX",
+"name":"Becton Dickinson",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "BBBY",
+"name":"Bed Bath & Beyond",
+"industry": "Consumer Discretionary",
+"subindustry": "Specialty Stores"
+},
+{
+"exchange": "NYSE",
+"symbol": "BRK.B",
+"name":"Berkshire Hathaway",
+"industry": "Financials",
+"subindustry": "Multi-Sector Holdings"
+},
+{
+"exchange": "NYSE",
+"symbol": "BBY",
+"name":"Best Buy Co. Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Computer & Electronics Retail"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "BIIB",
+"name":"BIOGEN IDEC Inc.",
+"industry": "Health Care",
+"subindustry": "Biotechnology"
+},
+{
+"exchange": "NYSE",
+"symbol": "BLK",
+"name":"BlackRock",
+"industry": "Financials",
+"subindustry": "Asset Management & Custody Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "HRB",
+"name":"Block H&R",
+"industry": "Financials",
+"subindustry": "Consumer Finance"
+},
+{
+"exchange": "NYSE",
+"symbol": "BA",
+"name":"Boeing Company",
+"industry": "Industrials",
+"subindustry": "Aerospace & Defense"
+},
+{
+"exchange": "NYSE",
+"symbol": "BWA",
+"name":"BorgWarner",
+"industry": "Consumer Discretionary",
+"subindustry": "Auto Parts & Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "BXP",
+"name":"Boston Properties",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "BSX",
+"name":"Boston Scientific",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "BMY",
+"name":"Bristol-Myers Squibb",
+"industry": "Health Care",
+"subindustry": "Health Care Distributors & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "BRCM",
+"name":"Broadcom Corporation",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "BF.B",
+"name":"Brown-Forman Corporation",
+"industry": "Consumer Staples",
+"subindustry": "Distillers & Vintners"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CHRW",
+"name":"C. H. Robinson Worldwide",
+"industry": "Industrials",
+"subindustry": "Air Freight & Logistics"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CA",
+"name":"CA, Inc.",
+"industry": "Information Technology",
+"subindustry": "Systems Software"
+},
+{
+"exchange": "NYSE",
+"symbol": "CVC",
+"name":"Cablevision|Cablevision Systems Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NYSE",
+"symbol": "COG",
+"name":"Cabot Oil & Gas",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "CAM",
+"name":"Cameron International Corp.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "CPB",
+"name":"Campbell Soup",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "COF",
+"name":"Capital One Financial",
+"industry": "Financials",
+"subindustry": "Consumer Finance"
+},
+{
+"exchange": "NYSE",
+"symbol": "CAH",
+"name":"Cardinal Health Inc.",
+"industry": "Health Care",
+"subindustry": "Health Care Distributors & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "HSIC",
+"name":"Henry Schein",
+"industry": "Health Care",
+"subindustry": "Health Care Distributors"
+},
+{
+"exchange": "NYSE",
+"symbol": "KMX",
+"name":"Carmax Inc",
+"industry": "Consumer Discretionary",
+"subindustry": "Specialty Stores"
+},
+{
+"exchange": "NYSE",
+"symbol": "CCL",
+"name":"Carnival Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Hotels, Resorts & Cruise Lines"
+},
+{
+"exchange": "NYSE",
+"symbol": "CAT",
+"name":"Caterpillar Inc.",
+"industry": "Industrials",
+"subindustry": "Construction & Farm Machinery & Heavy Trucks"
+},
+{
+"exchange": "NYSE",
+"symbol": "CBG",
+"name":"CBRE Group",
+"industry": "Financials",
+"subindustry": "Real Estate Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "CBS",
+"name":"CBS Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CELG",
+"name":"Celgene Corp.",
+"industry": "Health Care",
+"subindustry": "Biotechnology"
+},
+{
+"exchange": "NYSE",
+"symbol": "CNP",
+"name":"CenterPoint Energy",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "CTL",
+"name":"CenturyLink Inc",
+"industry": "Telecommunications Services",
+"subindustry": "Integrated Telecommunications Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CERN",
+"name":"Cerner",
+"industry": "Health Care",
+"subindustry": "Health Care Distributors & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "CF",
+"name":"CF Industries Holdings Inc",
+"industry": "Materials",
+"subindustry": "Fertilizers & Agricultural Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "SCHW",
+"name":"Charles Schwab Corporation",
+"industry": "Financials",
+"subindustry": "Investment Banking & Brokerage"
+},
+{
+"exchange": "NYSE",
+"symbol": "CHK",
+"name":"Chesapeake Energy",
+"industry": "Energy",
+"subindustry": "Integrated Oil & Gas"
+},
+{
+"exchange": "NYSE",
+"symbol": "CVX",
+"name":"Chevron Corp.",
+"industry": "Energy",
+"subindustry": "Integrated Oil & Gas"
+},
+{
+"exchange": "NYSE",
+"symbol": "CMG",
+"name":"Chipotle Mexican Grill",
+"industry": "Consumer Discretionary",
+"subindustry": "Restaurants"
+},
+{
+"exchange": "NYSE",
+"symbol": "CB",
+"name":"Chubb Corp.",
+"industry": "Financials",
+"subindustry": "Property & Casualty Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "CI",
+"name":"CIGNA Corp.",
+"industry": "Health Care",
+"subindustry": "Managed Health Care"
+},
+{
+"exchange": "NYSE",
+"symbol": "XEC",
+"name":"Cimarex Energy",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CINF",
+"name":"Cincinnati Financial",
+"industry": "Financials",
+"subindustry": "Property & Casualty Insurance"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CTAS",
+"name":"Cintas Corporation",
+"industry": "Industrials",
+"subindustry": "Diversified Support Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CSCO",
+"name":"Cisco Systems",
+"industry": "Information Technology",
+"subindustry": "Networking Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "C",
+"name":"Citigroup Inc.",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CTXS",
+"name":"Citrix Systems",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "CLX",
+"name":"The Clorox Company",
+"industry": "Consumer Staples",
+"subindustry": "Household Products"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CME",
+"name":"CME Group Inc.",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "CMS",
+"name":"CMS Energy",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "COH",
+"name":"Coach Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NYSE",
+"symbol": "KO",
+"name":"The Coca Cola Company",
+"industry": "Consumer Staples",
+"subindustry": "Soft Drinks"
+},
+{
+"exchange": "NYSE",
+"symbol": "CCE",
+"name":"Coca-Cola Enterprises",
+"industry": "Consumer Staples",
+"subindustry": "Soft Drinks"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CTSH",
+"name":"Cognizant Technology Solutions",
+"industry": "Information Technology",
+"subindustry": "IT Consulting & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "CL",
+"name":"Colgate-Palmolive",
+"industry": "Consumer Staples",
+"subindustry": "Household Products"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "CMCSA",
+"name":"Comcast Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NYSE",
+"symbol": "CMA",
+"name":"Comerica Inc.",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "CSC",
+"name":"Computer Sciences Corp.",
+"industry": "Information Technology",
+"subindustry": "IT Consulting & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "CAG",
+"name":"ConAgra Foods Inc.",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "COP",
+"name":"ConocoPhillips",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "CNX",
+"name":"CONSOL Energy Inc.",
+"industry": "Energy",
+"subindustry": "Coal & Consumable Fuels"
+},
+{
+"exchange": "NYSE",
+"symbol": "ED",
+"name":"Consolidated Edison",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "STZ",
+"name":"Constellation Brands",
+"industry": "Consumer Staples",
+"subindustry": "Distillers & Vintners"
+},
+{
+"exchange": "NYSE",
+"symbol": "GLW",
+"name":"Corning Inc.",
+"industry": "Industrials",
+"subindustry": "Construction & Engineering"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "COST",
+"name":"Costco Co.",
+"industry": "Consumer Staples",
+"subindustry": "Hypermarkets & Super Centers"
+},
+{
+"exchange": "NYSE",
+"symbol": "CCI",
+"name":"Crown Castle International Corp.",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "CSX",
+"name":"CSX Corp.",
+"industry": "Industrials",
+"subindustry": "Railroads"
+},
+{
+"exchange": "NYSE",
+"symbol": "CMI",
+"name":"Cummins Inc.",
+"industry": "Industrials",
+"subindustry": "Industrial Machinery"
+},
+{
+"exchange": "NYSE",
+"symbol": "CVS",
+"name":"CVS Caremark Corp.",
+"industry": "Consumer Staples",
+"subindustry": "Drug Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "DHI",
+"name":"D. R. Horton",
+"industry": "Consumer Discretionary",
+"subindustry": "Homebuilding"
+},
+{
+"exchange": "NYSE",
+"symbol": "DHR",
+"name":"Danaher Corp.",
+"industry": "Industrials",
+"subindustry": "Industrial Machinery"
+},
+{
+"exchange": "NYSE",
+"symbol": "DRI",
+"name":"Darden Restaurants",
+"industry": "Consumer Discretionary",
+"subindustry": "Restaurants"
+},
+{
+"exchange": "NYSE",
+"symbol": "DVA",
+"name":"DaVita Inc.",
+"industry": "Health Care",
+"subindustry": "Health Care Facilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "DE",
+"name":"Deere & Co.",
+"industry": "Industrials",
+"subindustry": "Construction & Farm Machinery & Heavy Trucks"
+},
+{
+"exchange": "NYSE",
+"symbol": "DLPH",
+"name":"Delphi Automotive",
+"industry": "Consumer Discretionary",
+"subindustry": "Auto Parts & Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "DAL",
+"name":"Delta Airlines|Delta Air Lines",
+"industry": "Industrials",
+"subindustry": "Airlines"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "XRAY",
+"name":"Dentsply International",
+"industry": "Health Care",
+"subindustry": "Health Care Supplies"
+},
+{
+"exchange": "NYSE",
+"symbol": "DVN",
+"name":"Devon Energy Corp.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "DO",
+"name":"Diamond Offshore Drilling",
+"industry": "Energy",
+"subindustry": "Oil & Gas Drilling"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "DTV",
+"name":"DirecTV",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NYSE",
+"symbol": "DFS",
+"name":"Discover Financial|Discover Financial Services",
+"industry": "Financials",
+"subindustry": "Consumer Finance"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "DISCA",
+"name":"Discovery Communications-A",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "DISCK",
+"name":"Discovery Communications-C",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NYSE",
+"symbol": "DG",
+"name":"Dollar General",
+"industry": "Consumer Discretionary",
+"subindustry": "General Merchandise Stores"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "DLTR",
+"name":"Dollar Tree",
+"industry": "Consumer Discretionary",
+"subindustry": "General Merchandise Stores"
+},
+{
+"exchange": "NYSE",
+"symbol": "D",
+"name":"Dominion Resources",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "DOV",
+"name":"Dover Corp.",
+"industry": "Industrials",
+"subindustry": "Industrial Machinery"
+},
+{
+"exchange": "NYSE",
+"symbol": "DOW",
+"name":"Dow Chemical",
+"industry": "Materials",
+"subindustry": "Diversified Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "DPS",
+"name":"Dr Pepper Snapple Group",
+"industry": "Consumer Staples",
+"subindustry": "Soft Drinks"
+},
+{
+"exchange": "NYSE",
+"symbol": "DTE",
+"name":"DTE Energy Co.",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "DD",
+"name":"Du Pont (E.I.)",
+"industry": "Materials",
+"subindustry": "Diversified Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "DUK",
+"name":"Duke Energy",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "DNB",
+"name":"Dun & Bradstreet",
+"industry": "Industrials",
+"subindustry": "Data Processing Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ETFC",
+"name":"E*Trade",
+"industry": "Financials",
+"subindustry": "Investment Banking & Brokerage"
+},
+{
+"exchange": "NYSE",
+"symbol": "EMN",
+"name":"Eastman Chemical",
+"industry": "Materials",
+"subindustry": "Diversified Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "ETN",
+"name":"Eaton Corporation",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "EBAY",
+"name":"eBay Inc.",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "ECL",
+"name":"Ecolab Inc.",
+"industry": "Materials",
+"subindustry": "Specialty Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "EIX",
+"name":"Edison Int'l",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "EW",
+"name":"Edwards Lifesciences",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "EA",
+"name":"Electronic Arts",
+"industry": "Information Technology",
+"subindustry": "Home Entertainment Software"
+},
+{
+"exchange": "NYSE",
+"symbol": "EMC",
+"name":"EMC Corp.",
+"industry": "Information Technology",
+"subindustry": "IT Consulting & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "EMR",
+"name":"Emerson Electric Company",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ENDP",
+"name":"Endo International",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+},
+{
+"exchange": "NYSE",
+"symbol": "ESV",
+"name":"Ensco plc",
+"industry": "Energy",
+"subindustry": "Oil & Gas Drilling"
+},
+{
+"exchange": "NYSE",
+"symbol": "ETR",
+"name":"Entergy Corp.",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "EOG",
+"name":"EOG Resources",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "EQT",
+"name":"EQT Corporation",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "EFX",
+"name":"Equifax Inc.",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "EQIX",
+"name":"Equinix",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "EQR",
+"name":"Equity Residential",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "ESS",
+"name":"Essex Property Trust Inc",
+"industry": "Financials",
+"subindustry": "Residential REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "EL",
+"name":"Estee Lauder Cos.",
+"industry": "Consumer Staples",
+"subindustry": "Personal Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "ES",
+"name":"Eversource Energy",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "EXC",
+"name":"Exelon Corp.",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "EXPE",
+"name":"Expedia Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Hotels, Resorts & Cruise Lines"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "EXPD",
+"name":"Expeditors Int'l",
+"industry": "Industrials",
+"subindustry": "Air Freight & Logistics"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ESRX",
+"name":"Express Scripts",
+"industry": "Health Care",
+"subindustry": "Health Care Distributors & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "XOM",
+"name":"Exxon Mobil Corp.",
+"industry": "Energy",
+"subindustry": "Integrated Oil & Gas"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FFIV",
+"name":"F5 Networks",
+"industry": "Information Technology",
+"subindustry": "Networking Equipment"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FB",
+"name":"Facebook",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "FDO",
+"name":"Family Dollar Stores",
+"industry": "Consumer Discretionary",
+"subindustry": "General Merchandise Stores"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FAST",
+"name":"Fastenal Co",
+"industry": "Industrials",
+"subindustry": "Building Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "FDX",
+"name":"FedEx Corporation",
+"industry": "Industrials",
+"subindustry": "Air Freight & Logistics"
+},
+{
+"exchange": "NYSE",
+"symbol": "FIS",
+"name":"Fidelity National Information Services",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FITB",
+"name":"Fifth Third Bancorp",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FSLR",
+"name":"First Solar Inc",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "FE",
+"name":"FirstEnergy Corp",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FISV",
+"name":"Fiserv Inc",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FLIR",
+"name":"FLIR Systems",
+"industry": "Industrials",
+"subindustry": "Aerospace & Defense"
+},
+{
+"exchange": "NYSE",
+"symbol": "FLS",
+"name":"Flowserve Corporation",
+"industry": "Industrials",
+"subindustry": "Industrial Machinery"
+},
+{
+"exchange": "NYSE",
+"symbol": "FLR",
+"name":"Fluor Corp.",
+"industry": "Industrials",
+"subindustry": "Diversified Commercial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "FMC",
+"name":"FMC Corporation",
+"industry": "Materials",
+"subindustry": "Diversified Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "FTI",
+"name":"FMC Technologies Inc.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "F",
+"name":"Ford Motor",
+"industry": "Consumer Discretionary",
+"subindustry": "Automobile Manufacturers"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FOSL",
+"name":"Fossil, Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NYSE",
+"symbol": "BEN",
+"name":"Franklin Resources",
+"industry": "Financials",
+"subindustry": "Asset Management & Custody Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "FCX",
+"name":"Freeport-McMoran Cp & Gld",
+"industry": "Materials",
+"subindustry": "Diversified Metals & Mining"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FTR",
+"name":"Frontier Communications",
+"industry": "Telecommunications Services",
+"subindustry": "Integrated Telecommunications Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "GME",
+"name":"GameStop Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Computer & Electronics Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "GCI",
+"name":"Gannett Co.",
+"industry": "Consumer Discretionary",
+"subindustry": "Publishing"
+},
+{
+"exchange": "NYSE",
+"symbol": "GPS",
+"name":"Gap (The)",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel Retail"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "GRMN",
+"name":"Garmin Ltd.",
+"industry": "Consumer Discretionary",
+"subindustry": "Consumer Electronics"
+},
+{
+"exchange": "NYSE",
+"symbol": "GD",
+"name":"General Dynamics",
+"industry": "Industrials",
+"subindustry": "Aerospace & Defense"
+},
+{
+"exchange": "NYSE",
+"symbol": "GE",
+"name":"General Electric",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "GGP",
+"name":"General Growth Properties Inc.",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "GIS",
+"name":"General Mills",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "GM",
+"name":"General Motors",
+"industry": "Consumer Discretionary",
+"subindustry": "Automobile Manufacturers"
+},
+{
+"exchange": "NYSE",
+"symbol": "GPC",
+"name":"Genuine Parts",
+"industry": "Consumer Discretionary",
+"subindustry": "Specialty Stores"
+},
+{
+"exchange": "NYSE",
+"symbol": "GNW",
+"name":"Genworth Financial Inc.",
+"industry": "Financials",
+"subindustry": "Life & Health Insurance"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "GILD",
+"name":"Gilead Sciences",
+"industry": "Health Care",
+"subindustry": "Biotechnology"
+},
+{
+"exchange": "NYSE",
+"symbol": "GS",
+"name":"Goldman Sachs Group",
+"industry": "Financials",
+"subindustry": "Investment Banking & Brokerage"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "GT",
+"name":"Goodyear Tire & Rubber",
+"industry": "Consumer Discretionary",
+"subindustry": "Tires & Rubber"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "GOOGL",
+"name":"Google Inc Class A",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "GOOG",
+"name":"Google Inc Class C",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "GWW",
+"name":"Grainger (W.W.) Inc.",
+"industry": "Industrials",
+"subindustry": "Industrial Materials"
+},
+{
+"exchange": "NYSE",
+"symbol": "HAL",
+"name":"Halliburton Co.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "HBI",
+"name":"Hanesbrands Inc",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NYSE",
+"symbol": "HOG",
+"name":"Harley-Davidson",
+"industry": "Consumer Discretionary",
+"subindustry": "Motorcycle Manufacturers"
+},
+{
+"exchange": "NYSE",
+"symbol": "HAR",
+"name":"Harman Int'l Industries",
+"industry": "Consumer Discretionary",
+"subindustry": "Consumer Electronics"
+},
+{
+"exchange": "NYSE",
+"symbol": "HRS",
+"name":"Harris Corporation",
+"industry": "Information Technology",
+"subindustry": "Telecommunications Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "HIG",
+"name":"Hartford Financial Svc.Gp.",
+"industry": "Financials",
+"subindustry": "Property & Casualty Insurance"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "HAS",
+"name":"Hasbro Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Leisure Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "HCA",
+"name":"HCA Holdings",
+"industry": "Health Care",
+"subindustry": "Health Care Facilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "HCP",
+"name":"HCP Inc.",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "HCN",
+"name":"Health Care REIT, Inc.",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "HP",
+"name":"Helmerich & Payne",
+"industry": "Energy",
+"subindustry": "Oil & Gas Drilling"
+},
+{
+"exchange": "NYSE",
+"symbol": "HES",
+"name":"Hess Corporation",
+"industry": "Energy",
+"subindustry": "Integrated Oil & Gas"
+},
+{
+"exchange": "NYSE",
+"symbol": "HPQ",
+"name":"Hewlett-Packard",
+"industry": "Information Technology",
+"subindustry": "Computer Hardware"
+},
+{
+"exchange": "NYSE",
+"symbol": "HD",
+"name":"Home Depot",
+"industry": "Consumer Discretionary",
+"subindustry": "Home Improvement Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "HON",
+"name":"Honeywell Int'l Inc.",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "HRL",
+"name":"Hormel Foods Corp.",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "HSP",
+"name":"Hospira Inc.",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "HST",
+"name":"Host Hotels & Resorts",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "HCBK",
+"name":"Hudson City Bancorp",
+"industry": "Financials",
+"subindustry": "Thrifts & Mortgage Finance"
+},
+{
+"exchange": "NYSE",
+"symbol": "HUM",
+"name":"Humana Inc.",
+"industry": "Health Care",
+"subindustry": "Managed Health Care"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "HBAN",
+"name":"Huntington Bancshares",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "ITW",
+"name":"Illinois Tool Works",
+"industry": "Industrials",
+"subindustry": "Industrial Machinery"
+},
+{
+"exchange": "NYSE",
+"symbol": "IR",
+"name":"Ingersoll-Rand PLC",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "TEG",
+"name":"Integrys Energy Group Inc.",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "INTC",
+"name":"Intel Corp.",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "ICE",
+"name":"Intercontinental Exchange",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "IBM",
+"name":"International Bus. Machines",
+"industry": "Information Technology",
+"subindustry": "IT Consulting & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "IP",
+"name":"International Paper",
+"industry": "Materials",
+"subindustry": "Paper Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "IPG",
+"name":"Interpublic Group",
+"industry": "Consumer Discretionary",
+"subindustry": "Advertising"
+},
+{
+"exchange": "NYSE",
+"symbol": "IFF",
+"name":"Intl Flavors & Fragrances",
+"industry": "Materials",
+"subindustry": "Specialty Chemicals"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "INTU",
+"name":"Intuit Inc.",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ISRG",
+"name":"Intuitive Surgical Inc.",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "IVZ",
+"name":"Invesco Ltd.",
+"industry": "Financials",
+"subindustry": "Asset Management & Custody Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "IRM",
+"name":"Iron Mountain Incorporated",
+"industry": "Industrials",
+"subindustry": "Data Processing Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "JEC",
+"name":"Jacobs Engineering Group",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "JNJ",
+"name":"Johnson & Johnson",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "JCI",
+"name":"Johnson Controls",
+"industry": "Consumer Discretionary",
+"subindustry": "Auto Parts & Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "JOY",
+"name":"Joy Global Inc.",
+"industry": "Industrials",
+"subindustry": "Industrial Machinery"
+},
+{
+"exchange": "NYSE",
+"symbol": "JPM",
+"name":"JPMorgan Chase & Co.",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "JNPR",
+"name":"Juniper Networks",
+"industry": "Information Technology",
+"subindustry": "Networking Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "KSU",
+"name":"Kansas City Southern",
+"industry": "Industrials",
+"subindustry": "Railroads"
+},
+{
+"exchange": "NYSE",
+"symbol": "K",
+"name":"Kellogg Co.",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "KEY",
+"name":"KeyCorp",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "GMCR",
+"name":"Keurig Green Mountain",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "KMB",
+"name":"Kimberly-Clark",
+"industry": "Consumer Staples",
+"subindustry": "Household Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "KIM",
+"name":"Kimco Realty",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "KMI",
+"name":"Kinder Morgan",
+"industry": "Energy",
+"subindustry": "Oil & Gas Refining & Marketing & Transportation"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "KLAC",
+"name":"KLA-Tencor Corp.",
+"industry": "Information Technology",
+"subindustry": "Semiconductor Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "KSS",
+"name":"Kohl's Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "General Merchandise Stores"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "KRFT",
+"name":"Kraft Foods|Kraft Foods Group",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "KR",
+"name":"Kroger Co.",
+"industry": "Consumer Staples",
+"subindustry": "Food Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "LB",
+"name":"L Brands Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "LLL",
+"name":"L-3 Communications Holdings",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "LH",
+"name":"Laboratory Corp. of America Holding",
+"industry": "Health Care",
+"subindustry": "Health Care Facilities"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "LRCX",
+"name":"Lam Research",
+"industry": "Information Technology",
+"subindustry": "Semiconductor Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "LM",
+"name":"Legg Mason",
+"industry": "Financials",
+"subindustry": "Asset Management & Custody Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "LEG",
+"name":"Leggett & Platt",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "LEN",
+"name":"Lennar Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Homebuilding"
+},
+{
+"exchange": "NYSE",
+"symbol": "LVLT",
+"name":"Level 3 Communications",
+"industry": "Telecommunications Services",
+"subindustry": "Alternative Carriers"
+},
+{
+"exchange": "NYSE",
+"symbol": "LUK",
+"name":"Leucadia National Corp.",
+"industry": "Financials",
+"subindustry": "Multi-Sector Holdings"
+},
+{
+"exchange": "NYSE",
+"symbol": "LLY",
+"name":"Lilly (Eli) & Co.",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+},
+{
+"exchange": "NYSE",
+"symbol": "LNC",
+"name":"Lincoln National",
+"industry": "Financials",
+"subindustry": "Multi-line Insurance"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "LLTC",
+"name":"Linear Technology Corp.",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "LMT",
+"name":"Lockheed Martin Corp.",
+"industry": "Industrials",
+"subindustry": "Aerospace & Defense"
+},
+{
+"exchange": "NYSE",
+"symbol": "L",
+"name":"Loews Corp.",
+"industry": "Financials",
+"subindustry": "Multi-Sector Holdings"
+},
+{
+"exchange": "NYSE",
+"symbol": "LO",
+"name":"Lorillard Inc.",
+"industry": "Consumer Staples",
+"subindustry": "Tobacco"
+},
+{
+"exchange": "NYSE",
+"symbol": "LOW",
+"name":"Lowe's Cos.",
+"industry": "Consumer Discretionary",
+"subindustry": "Home Improvement Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "LYB",
+"name":"LyondellBasell",
+"industry": "Materials",
+"subindustry": "Diversified Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "MTB",
+"name":"M&T Bank Corp.",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "MAC",
+"name":"Macerich",
+"industry": "Financials",
+"subindustry": "Retail REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "M",
+"name":"Macy's Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Department Stores"
+},
+{
+"exchange": "NYSE",
+"symbol": "MNK",
+"name":"Mallinckrodt Plc",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+},
+{
+"exchange": "NYSE",
+"symbol": "MRO",
+"name":"Marathon Oil Corp.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "MPC",
+"name":"Marathon Petroleum",
+"industry": "Energy",
+"subindustry": "Oil & Gas Refining & Marketing & Transportation"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "MAR",
+"name":"Marriott Int'l.",
+"industry": "Consumer Discretionary",
+"subindustry": "Hotels, Resorts & Cruise Lines"
+},
+{
+"exchange": "NYSE",
+"symbol": "MMC",
+"name":"Marsh & McLennan",
+"industry": "Financials",
+"subindustry": "Insurance Brokers"
+},
+{
+"exchange": "NYSE",
+"symbol": "MLM",
+"name":"Martin Marietta Materials",
+"industry": "Materials",
+"subindustry": "Construction Materials"
+},
+{
+"exchange": "NYSE",
+"symbol": "MAS",
+"name":"Masco Corp.",
+"industry": "Industrials",
+"subindustry": "Building Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "MA",
+"name":"Mastercard Inc.",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "MAT",
+"name":"Mattel Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Leisure Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "MKC",
+"name":"McCormick & Co.",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "MCD",
+"name":"McDonald's Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Restaurants"
+},
+{
+"exchange": "NYSE",
+"symbol": "MHFI",
+"name":"McGraw Hill Financial",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "MCK",
+"name":"McKesson Corp.",
+"industry": "Health Care",
+"subindustry": "Health Care Distributors & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "MJN",
+"name":"Mead Johnson",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "MWV",
+"name":"MeadWestvaco Corporation",
+"industry": "Materials",
+"subindustry": "Paper Packaging"
+},
+{
+"exchange": "NYSE",
+"symbol": "MDT",
+"name":"Medtronic Inc.",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "MRK",
+"name":"Merck & Co.",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+},
+{
+"exchange": "NYSE",
+"symbol": "MET",
+"name":"MetLife Inc.",
+"industry": "Financials",
+"subindustry": "Life & Health Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "KORS",
+"name":"Michael Kors Holdings",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "MCHP",
+"name":"Microchip Technology",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "MU",
+"name":"Micron Technology",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "MSFT",
+"name":"Microsoft Corp.",
+"industry": "Information Technology",
+"subindustry": "Systems Software"
+},
+{
+"exchange": "NYSE",
+"symbol": "MHK",
+"name":"Mohawk Industries",
+"industry": "Consumer Discretionary",
+"subindustry": "Home Furnishings"
+},
+{
+"exchange": "NYSE",
+"symbol": "TAP",
+"name":"Molson Coors Brewing Company",
+"industry": "Consumer Staples",
+"subindustry": "Brewers"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "MDLZ",
+"name":"Mondelez|Mondelez International",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "MON",
+"name":"Monsanto Co.",
+"industry": "Materials",
+"subindustry": "Fertilizers & Agricultural Chemicals"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "MNST",
+"name":"Monster Beverage",
+"industry": "Consumer Staples",
+"subindustry": "Soft Drinks"
+},
+{
+"exchange": "NYSE",
+"symbol": "MCO",
+"name":"Moody's Corp",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "MS",
+"name":"Morgan Stanley",
+"industry": "Financials",
+"subindustry": "Investment Banking & Brokerage"
+},
+{
+"exchange": "NYSE",
+"symbol": "MOS",
+"name":"The Mosaic Company",
+"industry": "Materials",
+"subindustry": "Fertilizers & Agricultural Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "MSI",
+"name":"Motorola Solutions Inc.",
+"industry": "Information Technology",
+"subindustry": "Telecommunications Equipment"
+},
+{
+"exchange": "NYSE",
+"symbol": "MUR",
+"name":"Murphy Oil",
+"industry": "Energy",
+"subindustry": "Integrated Oil & Gas"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "MYL",
+"name":"Mylan N.V.",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "NDAQ",
+"name":"NASDAQ OMX Group",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "NOV",
+"name":"National Oilwell Varco Inc.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Equipment & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "NAVI",
+"name":"Navient",
+"industry": "Financials",
+"subindustry": "Consumer Finance"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "NTAP",
+"name":"NetApp",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "NFLX",
+"name":"Netflix Inc.",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "NWL",
+"name":"Newell Rubbermaid Co.",
+"industry": "Consumer Discretionary",
+"subindustry": "Housewares & Specialties"
+},
+{
+"exchange": "NYSE",
+"symbol": "NFX",
+"name":"Newfield Exploration Co",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "NEM",
+"name":"Newmont Mining Corp. (Hldg. Co.)",
+"industry": "Materials",
+"subindustry": "Gold"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "NWSA",
+"name":"News Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Publishing"
+},
+{
+"exchange": "NYSE",
+"symbol": "NEE",
+"name":"NextEra Energy",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "NLSN",
+"name":"Nielsen Holdings",
+"industry": " ||Industrials",
+"subindustry": "Research & Consulting Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "NKE",
+"name":"Nike (company)|Nike",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NYSE",
+"symbol": "NI",
+"name":"NiSource Inc.",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "NE",
+"name":"Noble Corp",
+"industry": "Energy",
+"subindustry": "Oil & Gas Drilling"
+},
+{
+"exchange": "NYSE",
+"symbol": "NBL",
+"name":"Noble Energy Inc",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "JWN",
+"name":"Nordstrom",
+"industry": "Consumer Discretionary",
+"subindustry": "Department Stores"
+},
+{
+"exchange": "NYSE",
+"symbol": "NSC",
+"name":"Norfolk Southern Corp.",
+"industry": "Industrials",
+"subindustry": "Railroads"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "NTRS",
+"name":"Northern Trust Corp.",
+"industry": "Financials",
+"subindustry": "Asset Management & Custody Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "NOC",
+"name":"Northrop Grumman Corp.",
+"industry": "Industrials",
+"subindustry": "Aerospace & Defense"
+},
+{
+"exchange": "NYSE",
+"symbol": "NRG",
+"name":"NRG Energy",
+"industry": "Utilities",
+"subindustry": "Independent Power Producers & Energy Traders"
+},
+{
+"exchange": "NYSE",
+"symbol": "NUE",
+"name":"Nucor Corp.",
+"industry": "Materials",
+"subindustry": "Steel"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "NVDA",
+"name":"Nvidia Corporation",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ORLY",
+"name":"O'Reilly Automotive",
+"industry": "Consumer Discretionary",
+"subindustry": "Specialty Stores"
+},
+{
+"exchange": "NYSE",
+"symbol": "OXY",
+"name":"Occidental Petroleum",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "OMC",
+"name":"Omnicom Group",
+"industry": "Consumer Discretionary",
+"subindustry": "Advertising"
+},
+{
+"exchange": "NYSE",
+"symbol": "OKE",
+"name":"ONEOK",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "ORCL",
+"name":"Oracle Corp.",
+"industry": "Information Technology",
+"subindustry": "Application Software"
+},
+{
+"exchange": "NYSE",
+"symbol": "OI",
+"name":"Owens-Illinois Inc",
+"industry": "Materials",
+"subindustry": "Metal & Glass Containers"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "PCAR",
+"name":"PACCAR Inc.",
+"industry": "Industrials",
+"subindustry": "Construction & Farm Machinery & Heavy Trucks"
+},
+{
+"exchange": "NYSE",
+"symbol": "PLL",
+"name":"Pall Corp.",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "PH",
+"name":"Parker-Hannifin",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "PDCO",
+"name":"Patterson Companies",
+"industry": "Health Care",
+"subindustry": "Health Care Supplies"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "PAYX",
+"name":"Paychex Inc.",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "PNR",
+"name":"Pentair|Pentair Ltd.",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "PBCT",
+"name":"People's United Financial",
+"industry": "Financials",
+"subindustry": "Thrifts & Mortgage Finance"
+},
+{
+"exchange": "NYSE",
+"symbol": "POM",
+"name":"Pepco Holdings Inc.",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "PEP",
+"name":"PepsiCo Inc.",
+"industry": "Consumer Staples",
+"subindustry": "Soft Drinks"
+},
+{
+"exchange": "NYSE",
+"symbol": "PKI",
+"name":"PerkinElmer",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "PRGO",
+"name":"Perrigo",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+},
+{
+"exchange": "NYSE",
+"symbol": "PFE",
+"name":"Pfizer Inc.",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+},
+{
+"exchange": "NYSE",
+"symbol": "PCG",
+"name":"PG&E Corp.",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "PM",
+"name":"Philip Morris International",
+"industry": "Consumer Staples",
+"subindustry": "Tobacco"
+},
+{
+"exchange": "NYSE",
+"symbol": "PSX",
+"name":"Phillips 66",
+"industry": "Energy",
+"subindustry": "Oil & Gas Refining & Marketing & Transportation"
+},
+{
+"exchange": "NYSE",
+"symbol": "PNW",
+"name":"Pinnacle West Capital",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "PXD",
+"name":"Pioneer Natural Resources",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "PBI",
+"name":"Pitney-Bowes",
+"industry": "Industrials",
+"subindustry": "Office Services & Supplies"
+},
+{
+"exchange": "NYSE",
+"symbol": "PCL",
+"name":"Plum Creek Timber Co.",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "PNC",
+"name":"PNC Financial Services",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "RL",
+"name":"Polo Ralph Lauren Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NYSE",
+"symbol": "PPG",
+"name":"PPG Industries",
+"industry": "Materials",
+"subindustry": "Diversified Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "PPL",
+"name":"PPL Corp.",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "PX",
+"name":"Praxair Inc.",
+"industry": "Materials",
+"subindustry": "Industrial Gases"
+},
+{
+"exchange": "NYSE",
+"symbol": "PCP",
+"name":"Precision Castparts",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "PCLN",
+"name":"Priceline.com Inc",
+"industry": "Consumer Discretionary",
+"subindustry": "Hotels, Resorts & Cruise Lines"
+},
+{
+"exchange": "NYSE",
+"symbol": "PFG",
+"name":"Principal Financial Group",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "PG",
+"name":"Procter & Gamble",
+"industry": "Consumer Staples",
+"subindustry": "Personal Products"
+},
+{
+"exchange": "NYSE",
+"symbol": "PGR",
+"name":"Progressive Corp.",
+"industry": "Financials",
+"subindustry": "Property & Casualty Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "PLD",
+"name":"Prologis",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "PRU",
+"name":"Prudential Financial",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "PEG",
+"name":"Public Serv. Enterprise Inc.",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "PSA",
+"name":"Public Storage",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "PHM",
+"name":"Pulte Homes Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Homebuilding"
+},
+{
+"exchange": "NYSE",
+"symbol": "PVH",
+"name":"PVH Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NYSE",
+"symbol": "QEP",
+"name":"Questar Corporation (gas company)|QEP Resources",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "PWR",
+"name":"Quanta Services Inc.",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "QCOM",
+"name":"QUALCOMM Inc.",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "DGX",
+"name":"Quest Diagnostics",
+"industry": "Health Care",
+"subindustry": "Health Care Facilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "RRC",
+"name":"Range Resources|Range Resources Corp.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "RTN",
+"name":"Raytheon Co.",
+"industry": "Industrials",
+"subindustry": "Aerospace & Defense"
+},
+{
+"exchange": "NYSE",
+"symbol": "RHT",
+"name":"Red Hat Inc.",
+"industry": "Information Technology",
+"subindustry": "Systems Software"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "REGN",
+"name":"Regeneron",
+"industry": "Health Care",
+"subindustry": "Biotechnology"
+},
+{
+"exchange": "NYSE",
+"symbol": "RF",
+"name":"Regions Financial Corp.",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "RSG",
+"name":"Republic Services Inc",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "RAI",
+"name":"Reynolds American Inc.",
+"industry": "Consumer Staples",
+"subindustry": "Tobacco"
+},
+{
+"exchange": "NYSE",
+"symbol": "RHI",
+"name":"Robert Half International",
+"industry": "Industrials",
+"subindustry": "Human Resource & Employment Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "ROK",
+"name":"Rockwell Automation Inc.",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "COL",
+"name":"Rockwell Collins",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "ROP",
+"name":"Roper Industries",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ROST",
+"name":"Ross Stores",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "RCL",
+"name":"Royal Caribbean Cruises Ltd",
+"industry": "Consumer Discretionary",
+"subindustry": "Hotel, Resorts and Cruise Lines"
+},
+{
+"exchange": "NYSE",
+"symbol": "R",
+"name":"Ryder System",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "CRM",
+"name":"Salesforce.com",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "SNDK",
+"name":"SanDisk Corporation",
+"industry": "Information Technology",
+"subindustry": "Computer Storage & Peripherals"
+},
+{
+"exchange": "NYSE",
+"symbol": "SCG",
+"name":"SCANA Corp",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "SLB",
+"name":"Schlumberger Ltd.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "SNI",
+"name":"Scripps Networks Interactive Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "STX",
+"name":"Seagate Technology",
+"industry": "Information Technology",
+"subindustry": "Computer Storage & Peripherals"
+},
+{
+"exchange": "NYSE",
+"symbol": "SEE",
+"name":"Sealed Air Corp.(New)",
+"industry": "Materials",
+"subindustry": "Paper Packaging"
+},
+{
+"exchange": "NYSE",
+"symbol": "SRE",
+"name":"Sempra Energy",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "SHW",
+"name":"Sherwin-Williams",
+"industry": "Materials ||Specialty Chemicals",
+"subindustry": "Cleveland, Ohio]"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "SIAL",
+"name":"Sigma-Aldrich",
+"industry": "Materials",
+"subindustry": "Diversified Chemicals"
+},
+{
+"exchange": "NYSE",
+"symbol": "SPG",
+"name":"Simon Property Group Inc",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "SWKS",
+"name":"Skyworks Solutions",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "SLG",
+"name":"SL Green Realty",
+"industry": "Financials",
+"subindustry": "Office REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "SJM",
+"name":"Smucker (J.M.)",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "SNA",
+"name":"Snap-On Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Household Appliances"
+},
+{
+"exchange": "NYSE",
+"symbol": "SO",
+"name":"Southern Co.",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "LUV",
+"name":"Southwest Airlines",
+"industry": "Industrials",
+"subindustry": "Airlines"
+},
+{
+"exchange": "NYSE",
+"symbol": "SWN",
+"name":"Southwestern Energy",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NYSE",
+"symbol": "SE",
+"name":"Spectra Energy Corp.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Refining & Marketing & Transportation"
+},
+{
+"exchange": "NYSE",
+"symbol": "STJ",
+"name":"St Jude Medical",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "SWK",
+"name":"Stanley Black & Decker",
+"industry": "Consumer Discretionary",
+"subindustry": "Household Appliances"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "SPLS",
+"name":"Staples Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Specialty Stores"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "SBUX",
+"name":"Starbucks Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Restaurants"
+},
+{
+"exchange": "NYSE",
+"symbol": "HOT",
+"name":"Starwood Hotels & Resorts",
+"industry": "Consumer Discretionary",
+"subindustry": "Hotels, Resorts & Cruise Lines"
+},
+{
+"exchange": "NYSE",
+"symbol": "STT",
+"name":"State Street Corp.",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "SRCL",
+"name":"Stericycle Inc",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "SYK",
+"name":"Stryker Corp.",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "STI",
+"name":"SunTrust Banks",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "SYMC",
+"name":"Symantec Corp.",
+"industry": "Information Technology",
+"subindustry": "Application Software"
+},
+{
+"exchange": "NYSE",
+"symbol": "SYY",
+"name":"Sysco Corp.",
+"industry": "Consumer Staples",
+"subindustry": "Food Distributors"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "TROW",
+"name":"T. Rowe Price Group",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "TGT",
+"name":"Target Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "General Merchandise Stores"
+},
+{
+"exchange": "NYSE",
+"symbol": "TEL",
+"name":"TE Connectivity|TE Connectivity Ltd.",
+"industry": "Information Technology",
+"subindustry": "Electronic Equipment & Instruments"
+},
+{
+"exchange": "NYSE",
+"symbol": "TE",
+"name":"TECO Energy",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "THC",
+"name":"Tenet Healthcare Corp.",
+"industry": "Health Care",
+"subindustry": "Health Care Facilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "TDC",
+"name":"Teradata Corp.",
+"industry": "Information Technology",
+"subindustry": "Application Software"
+},
+{
+"exchange": "NYSE",
+"symbol": "TSO",
+"name":"Tesoro Petroleum Co.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Refining & Marketing & Transportation"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "TXN",
+"name":"Texas Instruments",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "TXT",
+"name":"Textron Inc.",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "HSY",
+"name":"The Hershey Company",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "TRV",
+"name":"The Travelers Companies Inc.",
+"industry": "Financials",
+"subindustry": "Property & Casualty Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "TMO",
+"name":"Thermo Fisher Scientific",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "TIF",
+"name":"Tiffany & Co.",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NYSE",
+"symbol": "TWX",
+"name":"Time Warner Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NYSE",
+"symbol": "TWC",
+"name":"Time Warner Cable Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NYSE",
+"symbol": "TJX",
+"name":"TJX Companies Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "TMK",
+"name":"Torchmark Corp.",
+"industry": "Financials",
+"subindustry": "Life & Health Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "TSS",
+"name":"Total System Services",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "TSCO",
+"name":"Tractor Supply Company",
+"industry": "Consumer Discretionary",
+"subindustry": "Specialty Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "RIG",
+"name":"Transocean",
+"industry": "Energy",
+"subindustry": "Oil & Gas Drilling"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "TRIP",
+"name":"TripAdvisor",
+"industry": "Consumer Discretionary",
+"subindustry": "Internet Retail"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "FOXA",
+"name":"Twenty-First Century Fox",
+"industry": "Consumer Discretionary",
+"subindustry": "Publishing"
+},
+{
+"exchange": "NYSE",
+"symbol": "TSN",
+"name":"Tyson Foods",
+"industry": "Consumer Staples",
+"subindustry": "Packaged Foods & Meats"
+},
+{
+"exchange": "NYSE",
+"symbol": "TYC",
+"name":"Tyco International",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "USB",
+"name":"U.S. Bancorp",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "UA",
+"name":"Under Armour",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NYSE",
+"symbol": "UNP",
+"name":"Union Pacific",
+"industry": "Industrials",
+"subindustry": "Railroads"
+},
+{
+"exchange": "NYSE",
+"symbol": "UNH",
+"name":"United Health Group Inc.",
+"industry": "Health Care",
+"subindustry": "Managed Health Care"
+},
+{
+"exchange": "NYSE",
+"symbol": "UPS",
+"name":"United Parcel Service",
+"industry": "Industrials",
+"subindustry": "Air Freight & Logistics"
+},
+{
+"exchange": "NYSE",
+"symbol": "URI",
+"name":"United Rentals|United Rentals, Inc.",
+"industry": "Industrials",
+"subindustry": "Trading Companies & Distributors"
+},
+{
+"exchange": "NYSE",
+"symbol": "UTX",
+"name":"United Technologies",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NYSE",
+"symbol": "UHS",
+"name":"Universal Health Services|Universal Health Services, Inc.",
+"industry": "Health Care",
+"subindustry": "Health Care Facilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "UNM",
+"name":"Unum Group",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "URBN",
+"name":"Urban Outfitters",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "VFC",
+"name":"V.F. Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Apparel, Accessories & Luxury Goods"
+},
+{
+"exchange": "NYSE",
+"symbol": "VLO",
+"name":"Valero Energy",
+"industry": "Energy",
+"subindustry": "Oil & Gas Refining & Marketing & Transportation"
+},
+{
+"exchange": "NYSE",
+"symbol": "VAR",
+"name":"Varian Medical Systems",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "VTR",
+"name":"Ventas Inc",
+"industry": "Financials",
+"subindustry": "Diversified Financial Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "VRSN",
+"name":"Verisign Inc.",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "VZ",
+"name":"Verizon Communications",
+"industry": "Telecommunications Services",
+"subindustry": "Integrated Telecommunications Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "VRTX",
+"name":"Vertex Pharmaceuticals|Vertex Pharmaceuticals Inc",
+"industry": "Health Care",
+"subindustry": "Biotechnology"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "VIAB",
+"name":"Viacom Inc.",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NYSE",
+"symbol": "V",
+"name":"Visa Inc.",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "VNO",
+"name":"Vornado Realty Trust",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "VMC",
+"name":"Vulcan Materials",
+"industry": "Materials",
+"subindustry": "Construction Materials"
+},
+{
+"exchange": "NYSE",
+"symbol": "WMT",
+"name":"Wal-Mart Stores",
+"industry": "Consumer Staples",
+"subindustry": "Hypermarkets & Super Centers"
+},
+{
+"exchange": "NYSE",
+"symbol": "WBA",
+"name":"Walgreens Boots Alliance",
+"industry": "Consumer Staples",
+"subindustry": "Drug Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "DIS",
+"name":"The Walt Disney Company",
+"industry": "Consumer Discretionary",
+"subindustry": "Broadcasting & Cable TV"
+},
+{
+"exchange": "NYSE",
+"symbol": "WM",
+"name":"Waste Management Inc.",
+"industry": "Industrials",
+"subindustry": "Environmental Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "WAT",
+"name":"Waters Corporation",
+"industry": "Health Care",
+"subindustry": "Health Care Distributors & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "ANTM",
+"name":"Anthem Inc.",
+"industry": "Health Care",
+"subindustry": "Managed Health Care"
+},
+{
+"exchange": "NYSE",
+"symbol": "WFC",
+"name":"Wells Fargo",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "WDC",
+"name":"Western Digital",
+"industry": "Information Technology",
+"subindustry": "Computer Storage & Peripherals"
+},
+{
+"exchange": "NYSE",
+"symbol": "WU",
+"name":"Western Union Co",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "WY",
+"name":"Weyerhaeuser Corp.",
+"industry": "Financials",
+"subindustry": "REITs"
+},
+{
+"exchange": "NYSE",
+"symbol": "WHR",
+"name":"Whirlpool Corp.",
+"industry": "Consumer Discretionary",
+"subindustry": "Household Appliances"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "WFM",
+"name":"Whole Foods Market",
+"industry": "Consumer Staples",
+"subindustry": "Food Retail"
+},
+{
+"exchange": "NYSE",
+"symbol": "WMB",
+"name":"Williams Cos.",
+"industry": "Energy",
+"subindustry": "Oil & Gas Exploration & Production"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "WIN",
+"name":"Windstream Communications",
+"industry": "Telecommunications Services",
+"subindustry": "Integrated Telecommunications Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "WEC",
+"name":"Wisconsin Energy Corporation",
+"industry": "Utilities",
+"subindustry": "Electric Utilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "WYN",
+"name":"Wyndham Worldwide",
+"industry": "Consumer Discretionary",
+"subindustry": "Hotels, Resorts & Cruise Lines"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "WYNN",
+"name":"Wynn Resorts Ltd",
+"industry": "Consumer Discretionary",
+"subindustry": "Casinos & Gaming"
+},
+{
+"exchange": "NYSE",
+"symbol": "XEL",
+"name":"Xcel Energy Inc",
+"industry": "Utilities",
+"subindustry": "MultiUtilities"
+},
+{
+"exchange": "NYSE",
+"symbol": "XRX",
+"name":"Xerox Corp.",
+"industry": "Information Technology",
+"subindustry": "IT Consulting & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "XLNX",
+"name":"Xilinx Inc",
+"industry": "Information Technology",
+"subindustry": "Semiconductors"
+},
+{
+"exchange": "NYSE",
+"symbol": "XL",
+"name":"XL Capital",
+"industry": "Financials",
+"subindustry": "Property & Casualty Insurance"
+},
+{
+"exchange": "NYSE",
+"symbol": "XYL",
+"name":"Xylem Inc.",
+"industry": "Industrials",
+"subindustry": "Industrial Conglomerates"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "YHOO",
+"name":"Yahoo Inc.",
+"industry": "Information Technology",
+"subindustry": "Internet Software & Services"
+},
+{
+"exchange": "NYSE",
+"symbol": "YUM",
+"name":"Yum! Brands Inc",
+"industry": "Consumer Discretionary",
+"subindustry": "Restaurants"
+},
+{
+"exchange": "NYSE",
+"symbol": "ZMH",
+"name":"Zimmer Holdings",
+"industry": "Health Care",
+"subindustry": "Health Care Equipment & Services"
+},
+{
+"exchange": "NASDAQ",
+"symbol": "ZION",
+"name":"Zions Bancorp",
+"industry": "Financials",
+"subindustry": "Banks"
+},
+{
+"exchange": "NYSE",
+"symbol": "ZTS",
+"name":"Zoetis",
+"industry": "Health Care",
+"subindustry": "Pharmaceuticals"
+}
+]
