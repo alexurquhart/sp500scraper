@@ -20,5 +20,5 @@ go get github.com/mattn/go-sqlite3
 
 ##Notes
 The symbols stored in sp500.json were scraped from Wikipedia on March 31st 2015 - this program
-does not take into account when symbols were added or removed from the index. It scrapes all symbols
+does not take into account when symbols were added or removed from the index, or any splits/merges. It scrapes all symbols
 in the list back to a maximum of 5 years.
